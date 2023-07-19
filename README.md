@@ -41,8 +41,7 @@ ___
 # Link
 Click [here](https://github.com/Dynamite00/Dynamite00)
 
-![image description](![10479150_20200918102847_500](https://github.com/Dynamite00/Dynamite00/assets/137602870/38d18c8a-6503-4595-aa25-c082fb85b383)
-)
+![image description](https://www.melon.com/album/popup/albumImgPop.htm)
 
 
 <!-- Table -->
@@ -69,5 +68,7 @@ To print message int the console, use `console.log('your message')` and ..
 ```ts
 console.log('your message')
 ```
+
+
 
 
